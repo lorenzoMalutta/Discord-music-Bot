@@ -2,5 +2,5 @@
 Primeiro  bot simles de musica.
 Na main add o token do bot no client.run("")
 
-# Pacotes necessários -> 
+# Pacotes necessários
 PyNaCl e FFMPEG
