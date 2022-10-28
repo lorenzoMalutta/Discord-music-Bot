@@ -1,5 +1,5 @@
 # Discord-music-Bot
-Primeiro  bot simles de musica.
+Primeiro  bot simples de musica.
 Na main add o token do bot no client.run("")
 
 # Pacotes necessários
